@@ -1,0 +1,1 @@
+eBook management system has three authentication system which is admin,user and guest. User can search book and other queries. Admin can add book, verify user and other enquery. Guest as a normal user.
